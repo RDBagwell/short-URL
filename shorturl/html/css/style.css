@@ -1,0 +1,19 @@
+.comments{
+	background: #dddddd;
+	border: 1px, solid #cccccc;
+	padding: 0 5px;
+}
+
+.comment {
+    margin: 0 0 5px 0;
+}
+
+.comment p{
+    margin: 0;
+}
+
+.mainBody {
+
+    height: 600px;
+
+}
